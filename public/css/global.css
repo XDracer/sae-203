@@ -178,7 +178,8 @@ footer {
         box-shadow: 0 20px 30px rgba(0, 0, 0, .1);
         border-radius: 20px;
         margin: 2%;
-        width: 100%;
+        width: 90%;
+        height: 800px;
     }
     img {
         border-radius: 20px;
